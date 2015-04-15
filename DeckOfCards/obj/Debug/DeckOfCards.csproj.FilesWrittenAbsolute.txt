@@ -1,0 +1,6 @@
+/Users/matteomanzo/Projects/DeckOfCards/DeckOfCards/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/matteomanzo/Projects/DeckOfCards/DeckOfCards/bin/Debug/nunit.framework.dll
+/Users/matteomanzo/Projects/DeckOfCards/DeckOfCards/bin/Debug/DeckOfCards.dll.mdb
+/Users/matteomanzo/Projects/DeckOfCards/DeckOfCards/bin/Debug/DeckOfCards.dll
+/Users/matteomanzo/Projects/DeckOfCards/DeckOfCards/obj/Debug/DeckOfCards.dll
+/Users/matteomanzo/Projects/DeckOfCards/DeckOfCards/obj/Debug/DeckOfCards.dll.mdb
