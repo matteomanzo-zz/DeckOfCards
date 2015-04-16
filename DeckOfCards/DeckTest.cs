@@ -63,7 +63,7 @@ namespace DeckOfCards
 			deck.DealCard ();
 			Assert.IsFalse (DeckContainsCard ("AceHearts"));
 		}
-			
+
 	}
 }
 
